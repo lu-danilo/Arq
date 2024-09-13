@@ -38,7 +38,7 @@ de resolução de problemas.
 Como Usar
 
 1. Clone o repositório para sua máquina local:
-git clone https://github.com/lu-danilo/arq.git
+git clone https://github.com/lu-danilo/python-study-repo.git
 
 2. Navegue até o diretório do repositório:
 cd python-study-repo
